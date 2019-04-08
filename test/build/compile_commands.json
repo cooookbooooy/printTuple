@@ -1,0 +1,12 @@
+[
+{
+  "directory": "F:/code/VSCode/test/build",
+  "command": "\"D:\\Program Files (x86)\\CodeBlocks\\MinGW\\bin\\mingw32-g++.exe\"   @CMakeFiles/cmake-test.dir/includes_CXX.rsp -g   -std=gnu++14 -o CMakeFiles\\cmake-test.dir\\Src\\human.cpp.obj -c F:\\code\\VSCode\\test\\Src\\human.cpp",
+  "file": "F:/code/VSCode/test/Src/human.cpp"
+},
+{
+  "directory": "F:/code/VSCode/test/build",
+  "command": "\"D:\\Program Files (x86)\\CodeBlocks\\MinGW\\bin\\mingw32-g++.exe\"   @CMakeFiles/cmake-test.dir/includes_CXX.rsp -g   -std=gnu++14 -o CMakeFiles\\cmake-test.dir\\Src\\main.cpp.obj -c F:\\code\\VSCode\\test\\Src\\main.cpp",
+  "file": "F:/code/VSCode/test/Src/main.cpp"
+}
+]

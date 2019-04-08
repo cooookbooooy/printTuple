@@ -1,0 +1,3 @@
+F:/code/VSCode/test/build/CMakeFiles/cmake-test.dir
+F:/code/VSCode/test/build/CMakeFiles/edit_cache.dir
+F:/code/VSCode/test/build/CMakeFiles/rebuild_cache.dir

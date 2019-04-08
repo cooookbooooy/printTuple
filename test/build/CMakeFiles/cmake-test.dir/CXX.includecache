@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Inc/printtuple.hpp
+iostream
+-
+tuple
+-
+
+F:/code/VSCode/test/Src/main.cpp
+iostream
+-
+cstdlib
+-
+tuple
+-
+iostream
+-
+string
+-
+printtuple.hpp
+F:/code/VSCode/test/Src/printtuple.hpp
+
